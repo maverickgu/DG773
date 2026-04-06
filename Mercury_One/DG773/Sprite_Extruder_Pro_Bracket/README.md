@@ -17,21 +17,21 @@ Material: PETG-CF, PPA-CF, PA-CF
 
 Layer Height: 0.2mm (0.25mm first layer)
 
-Line Width: 
-  Default                0.4
-  First Layer            0.4
-  Inner Wall             0.45
-  Sparse infill          0.6
-  Internal solid infill  0.5
+Line Width:  
+  Default                0.4  
+  First Layer            0.4  
+  Inner Wall             0.45  
+  Sparse infill          0.6  
+  Internal solid infill  0.5  
 
-Support: 
-  Grid
-  Surface plate only
-  Iron Support Interface
-  Top Z distance         0.2mm
-  Top interface layer    3 or max
-  Top interface spacing  0 mm
+Support:  
+  Grid  
+  Surface plate only  
+  Iron Support Interface  
+  Top Z distance         0.2mm  
+  Top interface layer    3 or max  
+  Top interface spacing  0 mm  
 
-Walls printing order     Inner/Outer (to increase strength)
+Walls printing order     Inner/Outer (to increase strength)  
 
 Elephant foot compensation NOT required (incorporated in design)
